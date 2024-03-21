@@ -1,0 +1,2 @@
+# ia_academy_SPRINT_2
+Data_Analytics_SPRINT_2_consultes avançades
